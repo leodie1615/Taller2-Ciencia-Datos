@@ -19,4 +19,4 @@ cuales permita descubrir insights, sugerir accionables al negocio y calcular el 
 # Conclusiones:
 
 - Las recomendaciones finales y los insights se encuentran en el notebook taller2_final.
-  Nota: El informe ejecutivo se encuentra en el repositorio bajo el nombre: Informe_Ejecutivo.pdf
+  Nota: El informe ejecutivo se encuentra en el repositorio bajo el nombre: Resumen Ejecutivo Taller 2.pdf
